@@ -14,7 +14,7 @@ namespace mergeTesting.Controllers
             ViewData["Message"] = "Welcome to ASP.NET MVC!";
 
             return View();
-
+        //master changes
         }
 
         public ActionResult About()
