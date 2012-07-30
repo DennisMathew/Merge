@@ -19,6 +19,7 @@ namespace mergeTesting.Controllers
 
         public ActionResult About()
         {
+            //view
             return View();
         }
     }
