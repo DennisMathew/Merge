@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mergeTesting", "mergeTesting\mergeTesting.csproj", "{BF938B22-C9BB-48FE-A563-68DC0570F8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mergeTesting.Tests", "mergeTesting.Tests\mergeTesting.Tests.csproj", "{3670941C-E409-4CA8-B4D7-5ADEF2802BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF938B22-C9BB-48FE-A563-68DC0570F8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF938B22-C9BB-48FE-A563-68DC0570F8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF938B22-C9BB-48FE-A563-68DC0570F8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF938B22-C9BB-48FE-A563-68DC0570F8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3670941C-E409-4CA8-B4D7-5ADEF2802BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3670941C-E409-4CA8-B4D7-5ADEF2802BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3670941C-E409-4CA8-B4D7-5ADEF2802BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3670941C-E409-4CA8-B4D7-5ADEF2802BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
